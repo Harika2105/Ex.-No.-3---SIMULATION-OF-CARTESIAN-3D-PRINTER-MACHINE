@@ -1,5 +1,5 @@
 # Ex. No.  - SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE
-### DATE:14-12-2024 
+### DATE:16-12-2024 
 
 ## AIM:
 ### To simulate the construction of cartesian 3D printer and to get in-depth knowledge of mechatronics of cartesian 3D printers.
@@ -55,6 +55,9 @@
 ![Screenshot 2024-12-12 212625](https://github.com/user-attachments/assets/32d64999-e01c-49eb-b38c-84e5e65d3aa4)
 
 ![Screenshot 2024-12-12 212651](https://github.com/user-attachments/assets/201ef47b-e58e-4c2a-9f4b-3fb6847b9a8c)
+
+![Screenshot 2024-12-12 210401](https://github.com/user-attachments/assets/059245a5-2a78-4a07-8c7b-cbad985f2f1a)
+
 
 
 
